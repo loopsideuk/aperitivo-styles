@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loopsideuk/aperitivo-theme.git"
+    "url": "git+https://github.com/loopsideuk/aperitivo-styles.git"
   },
   "bugs": {
-    "url": "https://github.com/loopsideuk/aperitivo-theme/issues"
+    "url": "https://github.com/loopsideuk/aperitivo-styles/issues"
   },
-  "homepage": "https://github.com/loopsideuk/aperitivo-theme#readme"
+  "homepage": "https://github.com/loopsideuk/aperitivo-styles#readme"
 }
