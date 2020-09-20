@@ -1,0 +1,12 @@
+{
+  "name": "aperitivo-theme",
+  "version": "0.0.1",
+  "description": "All the theme styles used by the aperitivo starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss build src/tw.css -o dist/aperitivo.css"
+  },
+  "author": "Adrian Badiu @abadiu",
+  "license": "MIT"
+}
