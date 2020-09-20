@@ -8,5 +8,13 @@
     "build": "npx tailwindcss build src/tw.css -o dist/aperitivo.css"
   },
   "author": "Adrian Badiu @abadiu",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopsideuk/aperitivo-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/loopsideuk/aperitivo-theme/issues"
+  },
+  "homepage": "https://github.com/loopsideuk/aperitivo-theme#readme"
 }
