@@ -1,5 +1,5 @@
 {
-  "name": "aperitivo-theme",
+  "name": "@aperitivo/styles",
   "version": "0.0.1",
   "description": "All the theme styles used by the aperitivo starter",
   "main": "index.js",
